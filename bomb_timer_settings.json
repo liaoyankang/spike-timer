@@ -1,0 +1,14 @@
+{
+  "x_offset": 0,
+  "y_offset": 108,
+  "font_size": 28,
+  "opacity_pct": 100,
+  "idle_text": "\u6296\u97f3kk",
+  "idle_color": "#00CC00",
+  "display_mode": "number",
+  "bomb_offset": 0.0,
+  "bind_valorant": false,
+  "game_w": 2560,
+  "game_h": 1440,
+  "update_url": "https://cdn.jsdelivr.net/gh/liaoyankang/spike-timer@main"
+}
