@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "changelog": "首次发布",
+  "version": "1.0.1",
+  "changelog": "• 新增一键更新功能\n• 新增强大的守护进程\n• 优化性能表现",
   "download_url": "https://cdn.jsdelivr.net/gh/liaoyankang/spike-timer@main"
 }
